@@ -8,9 +8,15 @@ Innovative tech mind, fast learner. Capable of working new technology and softwa
 Valuable team member who has experience developing solutions.
 Can work really well with the technologies listed in the **toolbox**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/stephbaicu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benammarbacem3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%C8%99tefan-adrian-baicu-4324b2244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bacem ben ammar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_stefan.sb_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bacemben_ammar" height="30" width="40" /></a>
+</p>
 
 ---
-🧰 ToolBox
+<h3 align="left">Languages and Tools:</h3>
 
 FrontEnd
 
