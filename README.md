@@ -6,7 +6,6 @@ Student in the fourth year at the Faculty of Engineering,from POLITEHNICA Univer
 
 Innovative tech mind, fast learner. Capable of working new technology and software solutions.
 Valuable team member who has experience developing solutions.
-Can work really well with the technologies listed in the **toolbox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
