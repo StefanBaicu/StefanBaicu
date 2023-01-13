@@ -2,9 +2,9 @@
 ---
 I'm 21yo.
 
-Student in the fourth year at the Faculty of Engineering,from POLITEHNICA University of Bucharest, studying Electronics and Telecommunication. 
+Student in the fourth year at the Faculty of Engineering, from POLITEHNICA University of Bucharest, studying Electronics and Telecommunication. 
 
-Innovative tech mind, fast learner. Capable of working new technology and software solutions.
+Innovative tech mind, fast learner. Capable of working with new technology and software solutions.
 Valuable team member who has experience developing solutions.
 
 <h3 align="left">Connect with me:</h3>
