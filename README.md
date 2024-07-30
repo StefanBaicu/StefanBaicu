@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Baicu Stefan 
 ---
-I'm 22yo.
+I'm 23yo.
 
 Student in the fourth year at the Faculty of Engineering, from POLITEHNICA University of Bucharest, studying Electronics and Telecommunication. 
 
