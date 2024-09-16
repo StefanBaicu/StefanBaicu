@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Baicu Stefan 
 ---
-I'm 23yo.
 
-Student in the fourth year at the Faculty of Engineering, from POLITEHNICA University of Bucharest, studying Electronics and Telecommunication. 
+I'm a 23-year-old engineer with a Bachelor's in Electronics and Telecommunications from POLITEHNICA University of Bucharest. 
+Currently, I'm pursuing a Master's in Intelligent Transport Systems at the same university.
 
-Innovative tech mind, fast learner. Capable of working with new technology and software solutions.
-Valuable team member who has experience developing solutions.
+As an innovative tech mind and fast learner, I thrive on working with cutting-edge technologies and software solutions. 
+I bring valuable experience in developing technical solutions, both independently and as part of a team, while continuously expanding my skill set to tackle new challenges
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
