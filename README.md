@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Baicu Stefan 
 ---
 
-I'm a 23-year-old engineer with a Bachelor's in Electronics and Telecommunications from POLITEHNICA University of Bucharest. 
+I'm a 24-year-old engineer with a Bachelor's in Electronics and Telecommunications from POLITEHNICA University of Bucharest. 
 Currently, I'm pursuing a Master's in Intelligent Transport Systems at the same university.
 
 As an innovative tech mind and fast learner, I thrive on working with cutting-edge technologies and software solutions. 
